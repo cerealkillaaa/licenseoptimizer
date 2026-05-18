@@ -1,0 +1,8 @@
+Reports/
+*.csv
+*.html
+*.log
+.vscode/
+config.json
+.DS_Store
+Thumbs.db
