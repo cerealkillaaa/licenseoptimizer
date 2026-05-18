@@ -1,0 +1,10 @@
+{
+  "InactiveDays": 90,
+  "LicensePricing": {
+    "ENTERPRISEPACK": 23,
+    "SPE_E5": 57,
+    "BUSINESS_PREMIUM": 22,
+    "VISIOCLIENT": 15,
+    "PROJECTPROFESSIONAL": 30
+  }
+}
